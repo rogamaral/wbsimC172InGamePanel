@@ -23,6 +23,5 @@ Copy the inside <i><b>ramaral-panel-wbsim-c172</b></i> folder to your Community 
 <p>Suggestions are also welcome.</p>
 <p></p>
 <p><b>I want to thank all the help provided by the WB-Sim team member N6722C(Skipper_Geoff).</b></p>
-<p></p>
-<p></p>
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TA5625E4JYVSW)
