@@ -4,19 +4,19 @@
 
 <b>External elements.</b>
 
-![External](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/b01ceb4f-8db6-416e-a9e1-6a295499b551)
+![External](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/66e5ba4a-751e-4dff-91aa-5d0c37f687ab)
 
 <b>Options.</b>
 
-![Options](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/e95d3d03-7f33-4a9f-bfb9-870d89604f26)
+![Options](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/49a096ad-16ef-4e14-a047-9f9584e41498)
 
 <b>Maintenance.</b>
 
-![Maintenance](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/1a69ca7e-1b0f-4f3b-b846-4e1b70744f79)
+![Maintenance](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/6e2d655f-9330-4e3d-b396-b2af0f1df920)
 
-<b>Cabine.</b>
+<b>Cabin.</b>
 
-![Cabine PNG](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/2099461c-4318-4fec-b223-6787ecd7624c)
+![Cabin](https://github.com/rogamaral/wbsimC172InGamePanel/assets/5101967/04afc050-4632-4130-971a-b3e7e77a9485)
 
 To download, click on the latest release, on the right, and choose <i><b>wbsimC172InGamePanel.zip.</b></i>
 
