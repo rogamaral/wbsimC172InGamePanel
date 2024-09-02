@@ -1,6 +1,6 @@
 # WB-Sim C172 In Game Panel
 <p>In game panel, accessible through the toolbar along the top of MSFS, to manage all the things done so far through the ADF.</p>
-<p>Even when battery is off and out of the aircraft</p>
+<p>Even when out of the aircraft</p>
 
 <b>External elements.</b>
 
